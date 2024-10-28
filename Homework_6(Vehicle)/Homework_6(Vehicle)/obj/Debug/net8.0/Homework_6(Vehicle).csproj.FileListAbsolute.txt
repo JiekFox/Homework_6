@@ -1,0 +1,14 @@
+E:\Unity и C#\Homework_6(Vehicle)\Homework_6(Vehicle)\bin\Debug\net8.0\Homework_6(Vehicle).exe
+E:\Unity и C#\Homework_6(Vehicle)\Homework_6(Vehicle)\bin\Debug\net8.0\Homework_6(Vehicle).deps.json
+E:\Unity и C#\Homework_6(Vehicle)\Homework_6(Vehicle)\bin\Debug\net8.0\Homework_6(Vehicle).runtimeconfig.json
+E:\Unity и C#\Homework_6(Vehicle)\Homework_6(Vehicle)\bin\Debug\net8.0\Homework_6(Vehicle).dll
+E:\Unity и C#\Homework_6(Vehicle)\Homework_6(Vehicle)\bin\Debug\net8.0\Homework_6(Vehicle).pdb
+E:\Unity и C#\Homework_6(Vehicle)\Homework_6(Vehicle)\obj\Debug\net8.0\Homework_6(Vehicle).GeneratedMSBuildEditorConfig.editorconfig
+E:\Unity и C#\Homework_6(Vehicle)\Homework_6(Vehicle)\obj\Debug\net8.0\Homework_6(Vehicle).AssemblyInfoInputs.cache
+E:\Unity и C#\Homework_6(Vehicle)\Homework_6(Vehicle)\obj\Debug\net8.0\Homework_6(Vehicle).AssemblyInfo.cs
+E:\Unity и C#\Homework_6(Vehicle)\Homework_6(Vehicle)\obj\Debug\net8.0\Homework_6(Vehicle).csproj.CoreCompileInputs.cache
+E:\Unity и C#\Homework_6(Vehicle)\Homework_6(Vehicle)\obj\Debug\net8.0\Homework_6(Vehicle).dll
+E:\Unity и C#\Homework_6(Vehicle)\Homework_6(Vehicle)\obj\Debug\net8.0\refint\Homework_6(Vehicle).dll
+E:\Unity и C#\Homework_6(Vehicle)\Homework_6(Vehicle)\obj\Debug\net8.0\Homework_6(Vehicle).pdb
+E:\Unity и C#\Homework_6(Vehicle)\Homework_6(Vehicle)\obj\Debug\net8.0\Homework_6(Vehicle).genruntimeconfig.cache
+E:\Unity и C#\Homework_6(Vehicle)\Homework_6(Vehicle)\obj\Debug\net8.0\ref\Homework_6(Vehicle).dll
